@@ -1,6 +1,6 @@
-- Hi, I’m @Znydee
-- I’m interested in mobile and desktop applicatons
-- I’m currently learning Python,kivy
+- Hi, I’m Znydee
+- I’m interested in mobile, desktop sktop and web applications
+- I’m currently improving my skills on Python,kivy,html,css, bootstrap, jquery,ajax,django and django rest framework.
 - 📫 How to reach me farouz98@gmail.com or +2347034599042
 
 <!---
